@@ -1,1 +1,8 @@
-<?php echo "Hello World!"; ?>
+<?php 
+
+$string = "Hello World!!!!!!!!!!!" //Seperated in decleration and initialisation
+echo $string; 
+
+
+
+?>

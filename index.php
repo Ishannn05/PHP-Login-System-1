@@ -1,6 +1,6 @@
 <?php 
 
-$string = "Hello World!!!!!!!!!!!" //Seperated in decleration and initialisation
+$string = "Hello World!!!!!!!!!!!" //Separated in decleration and initialisation
 echo $string; 
 
 

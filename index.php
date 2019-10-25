@@ -1,1 +1,7 @@
-<?php echo "Hello World!"; ?>
+<?php echo "Hello World!"; 
+$t = date("H");
+
+if ($t < "20") {
+    echo "Have a good day!";
+}
+?>
